@@ -1,7 +1,7 @@
 <div float="left">
-    <a href="https://sit.academy/"><img src="img/sit_academy_logo.jpeg" title="SIT Academy" alt="SIT Academy" width="47%"></a>
+    <a href="https://sit.academy/"><img src="img/sit_academy_logo.jpeg" title="SIT Academy" alt="SIT Academy" width="45%"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.cortexia.ch/?lang=en"><img src="img/cortexia_logo.jpeg" title="Cortexia" alt="Cortexia" width="47%"></a>
+    <a href="https://www.cortexia.ch/?lang=en"><img src="img/cortexia_logo.jpeg" title="Cortexia" alt="Cortexia" width="45%"></a>
 </div>
 
 # Cortexia - Darkzones Prediction
